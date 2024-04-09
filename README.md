@@ -5,3 +5,4 @@ Contendo:
 - Operadores e Expressões Aritméticas
 - Condicionais
 - Funções
+- Estruturas de repetição
